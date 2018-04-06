@@ -1438,6 +1438,10 @@ dot-prop@^4.1.0:
   dependencies:
     is-obj "^1.0.0"
 
+downshift@^1.31.3:
+  version "1.31.3"
+  resolved "https://registry.yarnpkg.com/downshift/-/downshift-1.31.3.tgz#09743d904de8cd18d6f22d2075c943b898aa0ef0"
+
 duplexer3@^0.1.4:
   version "0.1.4"
   resolved "https://registry.yarnpkg.com/duplexer3/-/duplexer3-0.1.4.tgz#ee01dd1cac0ed3cbc7fdbea37dc0a8f1ce002ce2"
@@ -3178,7 +3182,7 @@ prop-types@15.6.0:
     loose-envify "^1.3.1"
     object-assign "^4.1.1"
 
-prop-types@^15.6.0:
+prop-types@^15.6.0, prop-types@^15.6.1:
   version "15.6.1"
   resolved "https://registry.yarnpkg.com/prop-types/-/prop-types-15.6.1.tgz#36644453564255ddda391191fb3a125cbdf654ca"
   dependencies:

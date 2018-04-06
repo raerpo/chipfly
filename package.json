@@ -9,8 +9,12 @@
     "develop": "next"
   },
   "dependencies": {
+    "downshift": "^1.31.3",
     "next": "^5.1.0",
     "react": "^16.3.1",
     "react-dom": "^16.3.1"
+  },
+  "devDependencies": {
+    "prop-types": "^15.6.1"
   }
 }
