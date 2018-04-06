@@ -1,0 +1,16 @@
+{
+  "name": "chipfly",
+  "version": "1.0.0",
+  "description": "Cheapest flight to wherever you want to go... No matter when. ",
+  "main": "index.js",
+  "author": "Rafael Poveda",
+  "license": "MIT",
+  "scripts": {
+    "develop": "next"
+  },
+  "dependencies": {
+    "next": "^5.1.0",
+    "react": "^16.3.1",
+    "react-dom": "^16.3.1"
+  }
+}
